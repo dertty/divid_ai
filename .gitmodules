@@ -1,0 +1,9 @@
+[submodule "port"]
+	path = port
+	url = https://github.com/aisurfer/port.git
+[submodule "port_ml"]
+	path = port_ml
+	url = https://github.com/aisurfer/port_ml.git
+[submodule "divid_api"]
+	path = divid_api
+	url = https://github.com/aisurfer/divid_api.git
